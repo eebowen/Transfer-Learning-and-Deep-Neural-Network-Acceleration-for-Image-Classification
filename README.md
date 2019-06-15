@@ -22,6 +22,6 @@ Open ResNet_152_Train_on_Cars_Dataset.ipynb and run all.
 ## Authors
 [andrewhuang51](https://github.com/andrewhuang51)  
 [arikhor](https://github.com/arikhor)  
-[hjyu2019](https://github.com/hjyu2019)  
 [eebowen](https://github.com/eebowen)  
+[hjyu2019](https://github.com/hjyu2019)  
 [yeqinghuang516](https://github.com/yeqinghuang516)  
