@@ -1,4 +1,6 @@
 """
+Source: UCSD ECE285: Machine Learning and Image Processing
+
 Neural Network tools developed for UCSD ECE285 MLIP.
 
 Copyright 2019. Charles Deledalle, Sneha Gupta, Anurag Paul, Inderjot Saggu.
