@@ -1,1 +1,1 @@
-# transfer-learning-and-inference-acceleration-
+# Transfer learning and inference acceleration
